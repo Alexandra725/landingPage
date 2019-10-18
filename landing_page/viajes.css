@@ -1,0 +1,117 @@
+*{
+margin: 0;
+padding: 0;
+}
+html{
+background-image: url("blissful-paradise-free-beach-wallpapers-interfacelift-587fbc873df78c17b6acf754.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+}
+.formulario{
+    border-radius: 20px;
+    background-color:rgba(176, 241, 243, 0.0);
+    opacity: 0.8;
+    width: 350px;
+    height: 600px;
+    margin-top:100px;
+    margin-left: 550px;
+    margin-bottom: -10px;
+}
+.formulario p{
+    font-family: 'Satisfy', cursive;
+    font-size: 35px;
+    color: rgba(46, 3, 71, 0.493);
+}
+#name{
+    border-radius: 5px;
+    border: double;
+    border-color: black;
+    background-color: black;
+    width: 300px;
+    height: 40px;
+    margin-left: 19px;
+}
+#mail{
+    border-radius: 5px;
+    border: double;
+    border-color: black;
+    background-color: black;
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 19px;
+}
+#msg{
+    border-radius: 5px;
+    border: double;
+    border-color: black;
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 19px;
+    margin-bottom: 10px;
+}
+#botton{ 
+    border: double;
+    border-color: black;
+    background-color:lightcoral;
+    margin-left: 19px;
+}
+#form input{
+    color: white;
+}
+.tabla{
+    margin-top:208px;
+}
+ .selva{
+    background: rgba(5,255,255,1);
+    background: -moz-linear-gradient(top, rgba(5,255,255,1) 0%, rgba(46,92,9,1) 46%, rgba(46,92,9,1) 60%, rgba(6,113,117,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(5,255,255,1)), color-stop(46%, rgba(46,92,9,1)), color-stop(60%, rgba(46,92,9,1)), color-stop(100%, rgba(6,113,117,1)));
+    background: -webkit-linear-gradient(top, rgba(5,255,255,1) 0%, rgba(46,92,9,1) 46%, rgba(46,92,9,1) 60%, rgba(6,113,117,1) 100%);
+    background: -o-linear-gradient(top, rgba(5,255,255,1) 0%, rgba(46,92,9,1) 46%, rgba(46,92,9,1) 60%, rgba(6,113,117,1) 100%);
+    background: -ms-linear-gradient(top, rgba(5,255,255,1) 0%, rgba(46,92,9,1) 46%, rgba(46,92,9,1) 60%, rgba(6,113,117,1) 100%);
+    background: linear-gradient(to bottom, rgba(5,255,255,1) 0%, rgba(46,92,9,1) 46%, rgba(46,92,9,1) 60%, rgba(6,113,117,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#05ffff', endColorstr='#067175', GradientType=0 );
+
+ }
+ #selva img{
+     width: 720px;
+     height: 820px;
+
+ }
+ .desert{
+    background: rgba(22,51,110,1);
+    background: -moz-linear-gradient(top, rgba(22,51,110,1) 0%, rgba(168,180,240,1) 63%, rgba(245,230,201,1) 74%, rgba(245,223,179,1) 81%, rgba(128,40,8,1) 90%, rgba(33,7,5,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(22,51,110,1)), color-stop(63%, rgba(168,180,240,1)), color-stop(74%, rgba(245,230,201,1)), color-stop(81%, rgba(245,223,179,1)), color-stop(90%, rgba(128,40,8,1)), color-stop(100%, rgba(33,7,5,1)));
+    background: -webkit-linear-gradient(top, rgba(22,51,110,1) 0%, rgba(168,180,240,1) 63%, rgba(245,230,201,1) 74%, rgba(245,223,179,1) 81%, rgba(128,40,8,1) 90%, rgba(33,7,5,1) 100%);
+    background: -o-linear-gradient(top, rgba(22,51,110,1) 0%, rgba(168,180,240,1) 63%, rgba(245,230,201,1) 74%, rgba(245,223,179,1) 81%, rgba(128,40,8,1) 90%, rgba(33,7,5,1) 100%);
+    background: -ms-linear-gradient(top, rgba(22,51,110,1) 0%, rgba(168,180,240,1) 63%, rgba(245,230,201,1) 74%, rgba(245,223,179,1) 81%, rgba(128,40,8,1) 90%, rgba(33,7,5,1) 100%);
+    background: linear-gradient(to bottom, rgba(22,51,110,1) 0%, rgba(168,180,240,1) 63%, rgba(245,230,201,1) 74%, rgba(245,223,179,1) 81%, rgba(128,40,8,1) 90%, rgba(33,7,5,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#16336e', endColorstr='#210705', GradientType=0 );
+ }
+#desert img{
+    width: 720px;
+    height: 820px;
+}
+.selva h1{
+font-family: 'Sacramento', cursive;
+font-size: 35px;
+text-align: center;
+
+}
+.selva p{
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 20px;
+}
+.desert h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 35px;
+    text-align: center;
+}
+.desert p{
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 20px;
+}
